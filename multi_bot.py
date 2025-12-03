@@ -76,7 +76,7 @@ BOTS = [
     {
         "name": "Starter",
         "handle": "@EnglishTestStarterBot",
-        "token": "STARTER_BOT_TOKEN_HERE",
+        "token": "8543150612:AAFRAmwZQPswuehffqyY0-EegykLTR3aHpM",
         "min_delay": 0,
         "max_delay": 0,
         "script": [],
@@ -335,3 +335,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
